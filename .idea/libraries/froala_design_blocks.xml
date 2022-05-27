@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="froala-design-blocks">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/design-blocks-dev/froala-design-blocks.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

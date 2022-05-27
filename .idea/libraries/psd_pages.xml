@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="psd-pages">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/design-blocks-dev/assets/psds/psd-pages.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
